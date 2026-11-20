@@ -1,0 +1,18 @@
+{
+ "staged_social_media.csv": "Social media odds ratio (more than once an hour vs non-users) and 2025 score as information is added in stages; both outcomes, with and without survey weights. lo/hi = 95% bootstrap range.",
+ "model_ladder.csv": "Five tuned models: 2023 cross-validated AUROC, 2025 test AUROC, recall, precision, F1 at a 0.5 cutoff.",
+ "stronger_models.csv": "Gradient boosting and averaging versus logistic regression, 2025 AUROC with ranges; share sad in the top 10% by risk.",
+ "shap_importance.csv": "SHAP importance (mean |SHAP|, log-odds) for every question, boosting and logistic regression, with ranks.",
+ "question_ranking.csv": "RFE rank and LASSO weight for every question.",
+ "selection_stability.csv": "Share of 40 resamples in which each question made the RFE top 10 / short LASSO list.",
+ "rfe_curve.csv": "Prediction score versus number of questions kept by RFE.",
+ "fairness_2025.csv": "2025 AUROC, recall and false-alarm rate by sex and race/ethnicity.",
+ "cutoffs_2025.csv": "One cutoff versus separate cutoffs for girls and boys: share of sad students caught, false alarms.",
+ "profiles_kmeans.csv": "Five k-means profiles: share of students and sad rate in 2023 and 2025, plus social media use inside each.",
+ "profiles_hierarchical_vs_kmeans.csv": "Ward hierarchical clustering versus k-means: share and sad rate per group, both years.",
+ "risk_only_groups.csv": "Groups built from risk questions only: share and sad rate in 2023 and 2025.",
+ "protective_factors.csv": "Social media odds ratio with and without each protective factor (sleep, school closeness, activity, sports, parental monitoring).",
+ "calibration_2025.csv": "Predicted versus actual sad rate in each tenth of 2025 students by risk.",
+ "single_question_scores.csv": "2025 AUROC of each question used alone.",
+ "codebook_check_2025.txt": "Checks of the 2025 file against CDC's 2025 Data User's Guide."
+}

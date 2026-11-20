@@ -1,0 +1,12 @@
+1. Records: file 10,710 | guide 10,710 -> MATCH
+2. Answer options: 101 questions match the SAS formats in count; 0 differ 
+3. Out-of-range answers in the file: none
+4. CDC yes/no columns rebuilt from the guide's definitions: 82 of 84 agree exactly ['QN88: 4596 disagreements, 0 CDC-only', 'QN89: 2439 disagreements, 0 CDC-only']
+5. RACEETH labels in CDC's 2025 SAS program: 1=Am Indian/Alaska Native; 2=Asian; 3=Black or African American; 4=Hispanic or Latino; 5=Mideast/N African; 6=Native Hawaiian/PI; 7=White; 8=Multiple - Hispanic; 9=Multiple - Non-Hispanic
+   harmonize.py recode vs these labels: MATCH (2025 MENA is grouped with White, as in 2023; the guide's printed race table has a typo listing code 4 as NHOPI)
+   counts: RACEETH, 1.0      78, 2.0     517, 3.0    2169, 4.0    2399, 5.0     104, 6.0      33, 7.0    3603, 8.0     954, 9.0     760
+6. Weights sum to 10,710 (guide: scaled to the sample size, 10,710); 0 missing
+   Q26 sad or hopeless: 1=Yes: n 3,623 (33.3%w), 2=No: n 6,860 (66.7%w), missing 227
+   Q77 social media: 1=I do not use social me: n 634 (6.9%w), 2=A few times a month: n 220 (2.0%w), 3=About once a week: n 119 (1.0%w), 4=A few times a week: n 452 (4.4%w), 5=About once a day: n 484 (5.5%w), 6=Several times a day: n 4,208 (44.4%w), 7=About once an hour: n 666 (7.4%w), 8=More than once an hour: n 3,077 (28.4%w), missing 850
+   Q81 poor mental health: 1=Never: n 1,890 (19.8%w), 2=Rarely: n 2,158 (25.2%w), 3=Sometimes: n 2,715 (31.7%w), 4=Most of the time: n 1,494 (17.2%w), 5=Always: n 545 (6.0%w), missing 1,908
+   Q83 sleep: 1=4 or less hours: n 752 (7.7%w), 2=5 hours: n 1,212 (13.2%w), 3=6 hours: n 2,169 (24.8%w), 4=7 hours: n 2,466 (30.0%w), 5=8 hours: n 1,610 (18.7%w), 6=9 hours: n 352 (3.9%w), 7=10 or more hours: n 164 (1.7%w), missing 1,985

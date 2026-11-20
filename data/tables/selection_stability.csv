@@ -1,0 +1,87 @@
+question,label,in_rfe_top10,in_lasso_short_list,both
+Q89,Ever Parental emotional abuse ACEs,1.0,1.0,1.0
+Q2,What is your sex,0.975,1.0,0.975
+Q64,Sexual identity,0.625,1.0,0.625
+Q25,Electronic bullying,0.55,1.0,0.55
+Q24,Bullying at school,0.475,1.0,0.475
+Q47,Initiation of marijuana use,0.425,0.775,0.425
+Q35,Electronic vapor product use,0.3,1.0,0.3
+Q20,Sexual violence,0.175,0.55,0.175
+Q41,Initiation of alcohol use,0.175,1.0,0.175
+Q66,Perception of weight,0.175,0.175,0.175
+Q85,Sleep,1.0,0.05,0.05
+Q18,Saw physical violence in neighborhood,0.05,0.55,0.05
+Q67,Weight loss,0.05,0.975,0.05
+Q75,Breakfast eating,0.05,0.15,0.05
+Q98,Sunburn,0.05,0.05,0.05
+Q103,Feel close to people at their school,0.8,0.025,0.025
+Q14,Safety concerns at school,0.325,0.025,0.025
+Q71,Potato eating,0.2,0.025,0.025
+Q31,Ever cigarette use,0.175,0.025,0.025
+Q86,Unstable housing,0.15,0.025,0.025
+Q72,Carrot eating,0.05,0.025,0.025
+Q46,Ever marijuana use,0.025,0.475,0.025
+Q55,Illegal injected drug use,0.025,0.025,0.025
+Q81,HIV testing,0.025,0.075,0.025
+Q90,Ever Parental physical abuse ACEs,0.025,0.025,0.025
+Q92,Current Rx Pain med w/out Rx,0.6,0.0,0.0
+Q21,Sexual dating violence,0.425,0.0,0.0
+Q10,Drinking and driving,0.325,0.0,0.0
+Q1,How old are you,0.1,0.0,0.0
+Q8,Seat belt use,0.1,0.0,0.0
+Q32,Initiation of cigarette smoking,0.1,0.0,0.0
+Q50,Ever cocaine use,0.1,0.0,0.0
+Q51,Ever inhalant use,0.1,0.0,0.0
+RACEETH,Race / ethnicity,0.075,0.0,0.0
+Q34,Smoked >10 cigarettes,0.05,0.0,0.0
+Q16,Physical Fighting,0.025,0.0,0.0
+Q17,Physical fighting at school,0.025,0.0,0.0
+Q53,Ever methamphetamine use,0.025,0.0,0.0
+Q54,Ever ecstasy use,0.025,0.0,0.0
+Q80,Social media,0.025,0.0,0.0
+Q104,Parental monitoring,0.025,0.0,0.0
+Q3,In what grade are you,0.0,0.0,0.0
+Q9,Riding with a drinking driver,0.0,0.0,0.0
+Q11,Texting and driving,0.0,0.0,0.0
+Q12,Weapon carrying at school,0.0,0.0,0.0
+Q13,Gun carrying,0.0,0.2,0.0
+Q15,Threatened at school,0.0,0.0,0.0
+Q19,Forced sexual intercourse,0.0,0.025,0.0
+Q22,Physical dating violence,0.0,0.0,0.0
+Q23,treated unfairly in school b/c race/ethnicity,0.0,0.825,0.0
+Q33,Current cigarette use,0.0,0.0,0.0
+Q36,Current electronic vapor product use,0.0,0.05,0.0
+Q37,EVP from store,0.0,0.0,0.0
+Q38,Current smokeless tobacco use,0.0,0.0,0.0
+Q39,Current cigar use,0.0,0.0,0.0
+Q42,Current alcohol use,0.0,0.0,0.0
+Q44,Drinks in a row past 30 days,0.0,0.0,0.0
+Q45,Source of alcohol,0.0,0.0,0.0
+Q48,Current marijuana use,0.0,0.0,0.0
+Q49,Ever prescription pain medicine use,0.0,0.0,0.0
+Q52,Ever heroin use,0.0,0.0,0.0
+Q56,Ever sexual intercourse,0.0,0.35,0.0
+Q57,Sex before 13 years,0.0,0.0,0.0
+Q58,Number of sex partners,0.0,0.0,0.0
+Q59,Current sexual activity,0.0,0.0,0.0
+Q60,Alcohol/drugs and sex,0.0,0.0,0.0
+Q61,Condom use,0.0,0.0,0.0
+Q62,Birth control pill use,0.0,0.0,0.0
+Q63,Sex of sexual contacts,0.0,0.675,0.0
+Q69,Fruit eating,0.0,0.0,0.0
+Q70,Green salad eating,0.0,0.0,0.0
+Q73,Other vegetable eating,0.0,0.0,0.0
+Q74,No soda drinking,0.0,0.0,0.0
+Q76,Physical activity >= 5 days,0.0,0.0,0.0
+Q77,PE attendance,0.0,0.05,0.0
+Q78,Sports team participation,0.0,0.75,0.0
+Q79,Concussion,0.0,0.0,0.0
+Q82,STI testing,0.0,0.05,0.0
+Q83,Oral health care,0.0,0.0,0.0
+Q93,Ever used hallucinogenic drugs,0.0,0.0,0.0
+Q95,Sports drinks,0.0,0.0,0.0
+Q96,Plain water,0.0,0.0,0.0
+Q97,Muscle strengthening,0.0,0.0,0.0
+Q99,How often Household adult met basic needs ACEs,0.0,0.0,0.0
+Q105,Unfairly disciplined at school,0.0,0.025,0.0
+Q107,How well speak English,0.0,0.0,0.0

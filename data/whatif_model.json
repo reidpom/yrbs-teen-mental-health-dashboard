@@ -1,0 +1,406 @@
+{
+ "intercept": 1.167020070774459,
+ "auroc_2025": 0.798,
+ "questions": [
+  {
+   "q": "Q89",
+   "name": "Emotional abuse by a parent",
+   "label": "Ever Parental emotional abuse ACEs",
+   "default": 1,
+   "mean_contrib": -0.3216294799544118,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.5173574400971782
+    },
+    {
+     "code": 1,
+     "text": "Never",
+     "coef": -0.8989870036477489
+    },
+    {
+     "code": 2,
+     "text": "Rarely",
+     "coef": -0.25204433616500277
+    },
+    {
+     "code": 3,
+     "text": "Sometimes",
+     "coef": 0.22420991873953106
+    },
+    {
+     "code": 4,
+     "text": "Most of the time",
+     "coef": 0.883064353153561
+    },
+    {
+     "code": 5,
+     "text": "Always",
+     "coef": 0.5682517174528984
+    }
+   ]
+  },
+  {
+   "q": "Q85",
+   "name": "Hours of sleep",
+   "label": "Sleep",
+   "default": 4,
+   "mean_contrib": -0.00572376235616824,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.03692927741983193
+    },
+    {
+     "code": 1,
+     "text": "4 or less hours",
+     "coef": 0.6636864452323836
+    },
+    {
+     "code": 2,
+     "text": "5 hours",
+     "coef": 0.37239970842788306
+    },
+    {
+     "code": 3,
+     "text": "6 hours",
+     "coef": 0.058712036845243155
+    },
+    {
+     "code": 4,
+     "text": "7 hours",
+     "coef": -0.17050638773108628
+    },
+    {
+     "code": 5,
+     "text": "8 hours",
+     "coef": -0.45023829392771786
+    },
+    {
+     "code": 6,
+     "text": "9 hours",
+     "coef": -0.2872900603685871
+    },
+    {
+     "code": 7,
+     "text": "10 or more hours",
+     "coef": -0.14269696162221987
+    }
+   ]
+  },
+  {
+   "q": "Q92",
+   "name": "Misused pain medicine",
+   "label": "Current Rx Pain med w/out Rx",
+   "default": 1,
+   "mean_contrib": -0.3518014367978975,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.3859717904977136
+    },
+    {
+     "code": 1,
+     "text": "0 times",
+     "coef": -0.37081865189236674
+    },
+    {
+     "code": 2,
+     "text": "1 or 2 times",
+     "coef": 0.18625055978570623
+    },
+    {
+     "code": 3,
+     "text": "3 to 9 times",
+     "coef": 0.2286487964194654
+    },
+    {
+     "code": 4,
+     "text": "10 to 19 times",
+     "coef": 0.3386953781944124
+    },
+    {
+     "code": 5,
+     "text": "20 to 39 times",
+     "coef": 0.06355695860367068
+    },
+    {
+     "code": 6,
+     "text": "40 or more times",
+     "coef": -0.05322404117710058
+    }
+   ]
+  },
+  {
+   "q": "Q2",
+   "name": "Sex",
+   "label": "What is your sex",
+   "default": 2,
+   "mean_contrib": 0.08713134360431657,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.1751944957712823
+    },
+    {
+     "code": 1,
+     "text": "Female",
+     "coef": 0.43627369659672754
+    },
+    {
+     "code": 2,
+     "text": "Male",
+     "coef": -0.2539419913893701
+    }
+   ]
+  },
+  {
+   "q": "Q25",
+   "name": "Bullied online",
+   "label": "Electronic bullying",
+   "default": 2,
+   "mean_contrib": -0.15719106426428953,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.09204177820910629
+    },
+    {
+     "code": 1,
+     "text": "Yes",
+     "coef": 0.36806931485202377
+    },
+    {
+     "code": 2,
+     "text": "No",
+     "coef": -0.26889032720684664
+    }
+   ]
+  },
+  {
+   "q": "Q35",
+   "name": "Ever vaped",
+   "label": "Electronic vapor product use",
+   "default": 2,
+   "mean_contrib": -0.014787346132552184,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.16390818045285047
+    },
+    {
+     "code": 1,
+     "text": "Yes",
+     "coef": 0.45577534106424017
+    },
+    {
+     "code": 2,
+     "text": "No",
+     "coef": -0.2847299511753285
+    }
+   ]
+  },
+  {
+   "q": "Q103",
+   "name": "Close to people at school",
+   "label": "Feel close to people at their school",
+   "default": 2,
+   "mean_contrib": -0.1180779344327249,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.18684232172253518
+    },
+    {
+     "code": 1,
+     "text": "Strongly agree",
+     "coef": -0.36136061459245566
+    },
+    {
+     "code": 2,
+     "text": "Agree",
+     "coef": -0.3058808247903448
+    },
+    {
+     "code": 3,
+     "text": "Not sure",
+     "coef": -0.04796288992749241
+    },
+    {
+     "code": 4,
+     "text": "Disagree",
+     "coef": 0.31869533246102566
+    },
+    {
+     "code": 5,
+     "text": "Strongly disagree",
+     "coef": 0.5904885280078632
+    }
+   ]
+  },
+  {
+   "q": "Q64",
+   "name": "Sexual identity",
+   "label": "Sexual identity",
+   "default": 1,
+   "mean_contrib": -0.2951838667554592,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.02079928504622381
+    },
+    {
+     "code": 1,
+     "text": "Heterosexual (straight)",
+     "coef": -0.4959897661860755
+    },
+    {
+     "code": 2,
+     "text": "Gay or lesbian",
+     "coef": 0.19463037418797255
+    },
+    {
+     "code": 3,
+     "text": "Bisexual",
+     "coef": 0.26491096069960846
+    },
+    {
+     "code": 4,
+     "text": "Some other way",
+     "coef": 0.26121687884434486
+    },
+    {
+     "code": 5,
+     "text": "Not sure",
+     "coef": 0.21891803202256374
+    },
+    {
+     "code": 6,
+     "text": "Don't know what this means",
+     "coef": -0.4157499850861171
+    }
+   ]
+  },
+  {
+   "q": "Q24",
+   "name": "Bullied at school",
+   "label": "Bullying at school",
+   "default": 2,
+   "mean_contrib": -0.08680765205657148,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.1412031278193441
+    },
+    {
+     "code": 1,
+     "text": "Yes",
+     "coef": 0.3472906233180419
+    },
+    {
+     "code": 2,
+     "text": "No",
+     "coef": -0.19895028606261803
+    }
+   ]
+  },
+  {
+   "q": "Q14",
+   "name": "Felt unsafe at school",
+   "label": "Safety concerns at school",
+   "default": 1,
+   "mean_contrib": -0.3766792997469671,
+   "answers": [
+    {
+     "code": 0,
+     "text": "Skipped",
+     "coef": -0.16390539973181986
+    },
+    {
+     "code": 1,
+     "text": "0 days",
+     "coef": -0.4666234437894409
+    },
+    {
+     "code": 2,
+     "text": "1 day",
+     "coef": -0.0359739122021456
+    },
+    {
+     "code": 3,
+     "text": "2 or 3 days",
+     "coef": 0.35952238134053105
+    },
+    {
+     "code": 4,
+     "text": "4 or 5 days",
+     "coef": 0.27207459403938716
+    },
+    {
+     "code": 5,
+     "text": "6 or more days",
+     "coef": 0.042042989779556846
+    }
+   ]
+  },
+  {
+   "q": "Q80",
+   "name": "Social media use",
+   "label": "Social media",
+   "default": 6,
+   "mean_contrib": 0.09208003766628776,
+   "answers": [
+    {
+     "code": 1,
+     "text": "I do not use social media",
+     "coef": -0.1660551111034712
+    },
+    {
+     "code": 2,
+     "text": "A few times a month",
+     "coef": -0.0935510523234555
+    },
+    {
+     "code": 3,
+     "text": "About once a week",
+     "coef": -0.18146329698818478
+    },
+    {
+     "code": 4,
+     "text": "A few times a week",
+     "coef": 0.13361907722934982
+    },
+    {
+     "code": 5,
+     "text": "About once a day",
+     "coef": -0.07987818343373607
+    },
+    {
+     "code": 6,
+     "text": "Several times a day",
+     "coef": 0.073927194348555
+    },
+    {
+     "code": 7,
+     "text": "About once an hour",
+     "coef": 0.09501637060052649
+    },
+    {
+     "code": 8,
+     "text": "More than once an hour",
+     "coef": 0.22552221110649479
+    }
+   ]
+  }
+ ],
+ "base_logit": -0.3816503904519788
+}

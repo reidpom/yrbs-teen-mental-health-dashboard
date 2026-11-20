@@ -1,0 +1,87 @@
+question,label,rfe_rank,lasso_weight,lasso_rank,in_compact_lasso
+Q89,Ever Parental emotional abuse ACEs,1,0.6104072098424925,1.0,True
+Q85,Sleep,2,0.41590163655544843,2.0,False
+Q92,Current Rx Pain med w/out Rx,3,0.0,,False
+Q2,What is your sex,4,0.3360409053579763,3.0,True
+Q25,Electronic bullying,5,0.18927852165414763,7.0,True
+Q35,Electronic vapor product use,6,0.12700714628584175,10.0,True
+Q103,Feel close to people at their school,7,0.2986155942422548,4.0,False
+Q64,Sexual identity,8,0.24727904487386895,5.0,True
+Q24,Bullying at school,9,0.19476293860549654,6.0,True
+Q14,Safety concerns at school,10,0.11103232353343553,12.0,False
+Q10,Drinking and driving,11,0.007709016027495519,44.0,False
+Q41,Initiation of alcohol use,12,0.11078096726480118,13.0,True
+RACEETH,Race / ethnicity,13,0.09748544907279826,14.0,False
+Q71,Potato eating,14,0.0,,False
+Q98,Sunburn,15,0.0,,False
+Q50,Ever cocaine use,16,0.0,,False
+Q20,Sexual violence,17,0.09207531836241455,15.0,True
+Q86,Unstable housing,18,0.003623044139206824,48.0,False
+Q23,treated unfairly in school b/c race/ethnicity,19,0.14720750734036867,8.0,True
+Q66,Perception of weight,20,0.08383644710662236,18.0,False
+Q17,Physical fighting at school,21,0.0,,False
+Q16,Physical Fighting,22,0.0026306128660632112,50.0,False
+Q34,Smoked >10 cigarettes,23,0.0,,False
+Q31,Ever cigarette use,24,0.07862343894770882,19.0,False
+Q67,Weight loss,25,0.1467834327234781,9.0,True
+Q99,How often Household adult met basic needs ACEs,26,0.08670145796440702,17.0,False
+Q37,EVP from store,27,0.009448899810339697,41.0,False
+Q8,Seat belt use,28,0.0,,False
+Q47,Initiation of marijuana use,29,0.11428074472006908,11.0,True
+Q13,Gun carrying,30,0.06829759980247987,22.0,False
+Q11,Texting and driving,31,0.020357128973767805,34.0,False
+Q80,Social media,32,0.057681223075244564,24.0,False
+Q54,Ever ecstasy use,33,0.0,,False
+Q51,Ever inhalant use,34,0.0,,False
+Q36,Current electronic vapor product use,35,0.0030835185446359188,49.0,False
+Q21,Sexual dating violence,36,0.0,,False
+Q77,PE attendance,37,0.012926560403440852,40.0,False
+Q32,Initiation of cigarette smoking,38,0.0,,False
+Q104,Parental monitoring,39,0.014982678076758012,39.0,False
+Q70,Green salad eating,40,0.0,,False
+Q75,Breakfast eating,41,0.07606279228458938,20.0,False
+Q1,How old are you,42,0.00023001916465529762,52.0,False
+Q3,In what grade are you,43,0.046235667120223256,27.0,False
+Q78,Sports team participation,44,0.06913398964488207,21.0,True
+Q96,Plain water,45,0.00639042408004823,45.0,False
+Q63,Sex of sexual contacts,46,0.02452651357891797,33.0,True
+Q60,Alcohol/drugs and sex,47,0.0,,False
+Q56,Ever sexual intercourse,48,0.018848421990331828,36.0,False
+Q73,Other vegetable eating,49,0.0,,False
+Q53,Ever methamphetamine use,50,0.0,,False
+Q55,Illegal injected drug use,51,0.0,,False
+Q46,Ever marijuana use,52,0.0,,True
+Q90,Ever Parental physical abuse ACEs,53,0.03651913020766237,30.0,False
+Q42,Current alcohol use,54,0.041497398162354544,28.0,False
+Q45,Source of alcohol,55,0.0,,False
+Q48,Current marijuana use,56,0.008226750959173358,43.0,False
+Q19,Forced sexual intercourse,57,0.08969856302048229,16.0,False
+Q39,Current cigar use,58,0.001723525892783519,51.0,False
+Q33,Current cigarette use,59,0.0,,False
+Q72,Carrot eating,60,0.038718656364059405,29.0,False
+Q22,Physical dating violence,61,0.0551689941243217,25.0,False
+Q79,Concussion,62,0.0,,False
+Q62,Birth control pill use,63,0.0,,False
+Q76,Physical activity >= 5 days,64,0.01851596374486705,37.0,False
+Q49,Ever prescription pain medicine use,65,0.06714532598700186,23.0,False
+Q61,Condom use,66,0.016712138964275376,38.0,False
+Q57,Sex before 13 years,67,0.0,,False
+Q58,Number of sex partners,68,0.0,,False
+Q59,Current sexual activity,69,0.0,,False
+Q74,No soda drinking,70,0.019900255094788533,35.0,False
+Q95,Sports drinks,71,0.005050879562534148,46.0,False
+Q93,Ever used hallucinogenic drugs,72,0.0,,False
+Q97,Muscle strengthening,73,0.02602459309945499,31.0,False
+Q9,Riding with a drinking driver,74,0.0,,False
+Q38,Current smokeless tobacco use,75,0.0,,False
+Q15,Threatened at school,76,0.0,,False
+Q83,Oral health care,77,0.0,,False
+Q69,Fruit eating,78,0.009412627597323222,42.0,False
+Q105,Unfairly disciplined at school,79,0.024554343038739684,32.0,False
+Q52,Ever heroin use,80,0.0,,False
+Q107,How well speak English,81,0.003868595945378027,47.0,False
+Q44,Drinks in a row past 30 days,82,0.0,,False
+Q18,Saw physical violence in neighborhood,83,0.05422705801513109,26.0,True
+Q81,HIV testing,84,0.0,,False
+Q82,STI testing,85,0.0,,False
+Q12,Weapon carrying at school,86,0.0,,False

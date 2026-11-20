@@ -1,0 +1,87 @@
+question,label,auroc_2025_alone
+Q89,Ever Parental emotional abuse ACEs,0.705160409004415
+Q41,Initiation of alcohol use,0.6206612852275548
+Q2,What is your sex,0.6199905561572538
+Q35,Electronic vapor product use,0.6145310137864122
+Q90,Ever Parental physical abuse ACEs,0.614420381213475
+Q63,Sex of sexual contacts,0.6113299318576683
+Q23,treated unfairly in school b/c race/ethnicity,0.6102430908113149
+Q103,Feel close to people at their school,0.6073410482336394
+Q47,Initiation of marijuana use,0.6067496681257851
+Q64,Sexual identity,0.6019754272057884
+Q75,Breakfast eating,0.6015149869882743
+Q85,Sleep,0.597417492121513
+Q46,Ever marijuana use,0.5969386954052815
+Q24,Bullying at school,0.596608677993637
+Q25,Electronic bullying,0.587779413645013
+Q22,Physical dating violence,0.5863748476951195
+Q18,Saw physical violence in neighborhood,0.5825488221755906
+Q36,Current electronic vapor product use,0.5769324856908624
+Q21,Sexual dating violence,0.5715776764292215
+Q76,Physical activity >= 5 days,0.5706417535368578
+Q57,Sex before 13 years,0.5695609059695992
+Q61,Condom use,0.5691586142512242
+Q20,Sexual violence,0.5673919716524892
+Q97,Muscle strengthening,0.5669687145092023
+Q14,Safety concerns at school,0.5660847115984867
+Q58,Number of sex partners,0.5654138180013086
+Q59,Current sexual activity,0.5650735529156043
+Q37,EVP from store,0.5641959195454169
+Q48,Current marijuana use,0.5636181951683626
+Q66,Perception of weight,0.5635222759990073
+Q49,Ever prescription pain medicine use,0.563175218303662
+Q67,Weight loss,0.559715453116421
+Q19,Forced sexual intercourse,0.5593184262581136
+Q42,Current alcohol use,0.558646545499673
+Q78,Sports team participation,0.5585950955948163
+Q99,How often Household adult met basic needs ACEs,0.5582231473333483
+Q44,Drinks in a row past 30 days,0.5557115035312169
+Q62,Birth control pill use,0.555141558925066
+Q60,Alcohol/drugs and sex,0.551796186925096
+Q80,Social media,0.5513918033649977
+Q32,Initiation of cigarette smoking,0.5508233159969013
+Q56,Ever sexual intercourse,0.5504211182938844
+Q8,Seat belt use,0.5496121161352918
+Q105,Unfairly disciplined at school,0.5436482048707478
+Q45,Source of alcohol,0.5432778078626925
+Q15,Threatened at school,0.541833379400859
+Q104,Parental monitoring,0.5410449666057446
+Q74,No soda drinking,0.5369525720721737
+Q9,Riding with a drinking driver,0.5364152507953699
+Q83,Oral health care,0.5360838466571899
+Q92,Current Rx Pain med w/out Rx,0.5349205241168198
+Q31,Ever cigarette use,0.5330850387719338
+Q77,PE attendance,0.532355597110344
+Q16,Physical Fighting,0.5318440360417278
+RACEETH,RACEETH,0.5304993343712628
+Q69,Fruit eating,0.5302256791669487
+Q51,Ever inhalant use,0.5290242804064471
+Q95,Sports drinks,0.5285077130199989
+Q98,Sunburn,0.5251100919846265
+Q93,Ever used hallucinogenic drugs,0.5247232892965394
+Q72,Carrot eating,0.5238670444203765
+Q34,Smoked >10 cigarettes,0.5225642971035749
+Q81,HIV testing,0.5222538113826274
+Q11,Texting and driving,0.522065075550742
+Q10,Drinking and driving,0.5207161666929909
+Q55,Illegal injected drug use,0.5186095175507871
+Q96,Plain water,0.5184255765021774
+Q54,Ever ecstasy use,0.518395585602864
+Q50,Ever cocaine use,0.5181952858819017
+Q70,Green salad eating,0.5180752517731297
+Q82,STI testing,0.5180684356596494
+Q79,Concussion,0.5178547622539618
+Q73,Other vegetable eating,0.5176406422753221
+Q107,How well speak English,0.5165698308475672
+Q33,Current cigarette use,0.5152144349300901
+Q17,Physical fighting at school,0.5146904873380115
+Q12,Weapon carrying at school,0.5129957899922531
+Q39,Current cigar use,0.5119256366720067
+Q86,Unstable housing,0.5115666860338305
+Q13,Gun carrying,0.5106848689801966
+Q38,Current smokeless tobacco use,0.5087375758703941
+Q71,Potato eating,0.5068245748625495
+Q1,How old are you,0.5048630384259573
+Q3,In what grade are you,0.50396375801951
+Q52,Ever heroin use,0.4990573550095143
+Q53,Ever methamphetamine use,0.4989536325654159

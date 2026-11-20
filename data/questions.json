@@ -1,0 +1,1060 @@
+{
+ "Q1": {
+  "name": "Age",
+  "label": "How old are you",
+  "answers": {
+   "1": "12 years old or younger",
+   "2": "13 years old",
+   "3": "14 years old",
+   "4": "15 years old",
+   "5": "16 years old",
+   "6": "17 years old",
+   "7": "18 years old or older"
+  }
+ },
+ "Q2": {
+  "name": "Sex",
+  "label": "What is your sex",
+  "answers": {
+   "1": "Female",
+   "2": "Male"
+  }
+ },
+ "Q3": {
+  "name": "Grade",
+  "label": "In what grade are you",
+  "answers": {
+   "1": "9th grade",
+   "2": "10th grade",
+   "3": "11th grade",
+   "4": "12th grade",
+   "5": "Ungraded or other grade"
+  }
+ },
+ "Q8": {
+  "name": "Seat belt use",
+  "label": "Seat belt use",
+  "answers": {
+   "1": "Never",
+   "2": "Rarely",
+   "3": "Sometimes",
+   "4": "Most of the time",
+   "5": "Always"
+  }
+ },
+ "Q9": {
+  "name": "Riding with a drinking driver",
+  "label": "Riding with a drinking driver",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 or 3 times",
+   "4": "4 or 5 times",
+   "5": "6 or more times"
+  }
+ },
+ "Q10": {
+  "name": "Drinking and driving",
+  "label": "Drinking and driving",
+  "answers": {
+   "1": "Did not drive",
+   "2": "Did not drive when drinking",
+   "3": "1 time",
+   "4": "2 or 3 times",
+   "5": "4 or 5 times",
+   "6": "6 or more times"
+  }
+ },
+ "Q11": {
+  "name": "Texting and driving",
+  "label": "Texting and driving",
+  "answers": {
+   "1": "Did not drive",
+   "2": "Did not text while driving",
+   "3": "1 or 2 days",
+   "4": "3 to 5 days",
+   "5": "6 to 9 days",
+   "6": "10 to 19 days",
+   "7": "20 to 29 days",
+   "8": "All 30 days"
+  }
+ },
+ "Q12": {
+  "name": "Weapon carrying at school",
+  "label": "Weapon carrying at school",
+  "answers": {
+   "1": "0 days",
+   "2": "1 day",
+   "3": "2 or 3 days",
+   "4": "4 or 5 days",
+   "5": "6 or more days"
+  }
+ },
+ "Q13": {
+  "name": "Gun carrying",
+  "label": "Gun carrying",
+  "answers": {
+   "1": "0 days",
+   "2": "1 day",
+   "3": "2 or 3 days",
+   "4": "4 or 5 days",
+   "5": "6 or more days"
+  }
+ },
+ "Q14": {
+  "name": "Felt unsafe at school",
+  "label": "Safety concerns at school",
+  "answers": {
+   "1": "0 days",
+   "2": "1 day",
+   "3": "2 or 3 days",
+   "4": "4 or 5 days",
+   "5": "6 or more days"
+  }
+ },
+ "Q15": {
+  "name": "Threatened at school",
+  "label": "Threatened at school",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 or 3 times",
+   "4": "4 or 5 times",
+   "5": "6 or 7 times",
+   "6": "8 or 9 times",
+   "7": "10 or 11 times",
+   "8": "12 or more times"
+  }
+ },
+ "Q16": {
+  "name": "Physical Fighting",
+  "label": "Physical Fighting",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 or 3 times",
+   "4": "4 or 5 times",
+   "5": "6 or 7 times",
+   "6": "8 or 9 times",
+   "7": "10 or 11 times",
+   "8": "12 or more times"
+  }
+ },
+ "Q17": {
+  "name": "Physical fighting at school",
+  "label": "Physical fighting at school",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 or 3 times",
+   "4": "4 or 5 times",
+   "5": "6 or 7 times",
+   "6": "8 or 9 times",
+   "7": "10 or 11 times",
+   "8": "12 or more times"
+  }
+ },
+ "Q18": {
+  "name": "Saw violence in neighborhood",
+  "label": "Saw physical violence in neighborhood",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q19": {
+  "name": "Forced sex",
+  "label": "Forced sexual intercourse",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q20": {
+  "name": "Sexual violence",
+  "label": "Sexual violence",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 or 3 times",
+   "4": "4 or 5 times",
+   "5": "6 or more times"
+  }
+ },
+ "Q21": {
+  "name": "Sexual dating violence",
+  "label": "Sexual dating violence",
+  "answers": {
+   "1": "Did not date",
+   "2": "0 times",
+   "3": "1 time",
+   "4": "2 or 3 times",
+   "5": "4 or 5 times",
+   "6": "6 or more times"
+  }
+ },
+ "Q22": {
+  "name": "Physical dating violence",
+  "label": "Physical dating violence",
+  "answers": {
+   "1": "Did not date",
+   "2": "0 times",
+   "3": "1 time",
+   "4": "2 or 3 times",
+   "5": "4 or 5 times",
+   "6": "6 or more times"
+  }
+ },
+ "Q23": {
+  "name": "Treated unfairly at school (race)",
+  "label": "treated unfairly in school b/c race/ethnicity",
+  "answers": {
+   "1": "Never",
+   "2": "Rarely",
+   "3": "Sometimes",
+   "4": "Most of the time",
+   "5": "Always"
+  }
+ },
+ "Q24": {
+  "name": "Bullied at school",
+  "label": "Bullying at school",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q25": {
+  "name": "Bullied online",
+  "label": "Electronic bullying",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q26": {
+  "name": "Felt sad or hopeless",
+  "label": "Sad or hopeless",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q27": {
+  "name": "Considered suicide",
+  "label": "Considered suicide",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q28": {
+  "name": "Made a suicide plan past 12 months",
+  "label": "Made a suicide plan past 12 months",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q29": {
+  "name": "Attempted suicide",
+  "label": "Attempted suicide",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 or 3 times",
+   "4": "4 or 5 times",
+   "5": "6 or more times"
+  }
+ },
+ "Q30": {
+  "name": "Injurious suicide attempt",
+  "label": "Injurious suicide attempt",
+  "answers": {
+   "1": "Did not attempt suicide",
+   "2": "Yes",
+   "3": "No"
+  }
+ },
+ "Q31": {
+  "name": "Ever smoked",
+  "label": "Ever cigarette use",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q32": {
+  "name": "Initiation of cigarette smoking",
+  "label": "Initiation of cigarette smoking",
+  "answers": {
+   "1": "Never smoked a cigarette",
+   "2": "8 years old or younger",
+   "3": "9 or 10 years old",
+   "4": "11 or 12 years old",
+   "5": "13 or 14 years old",
+   "6": "15 or 16 years old",
+   "7": "17 years old or older"
+  }
+ },
+ "Q33": {
+  "name": "Current cigarette use",
+  "label": "Current cigarette use",
+  "answers": {
+   "1": "0 days",
+   "2": "1 or 2 days",
+   "3": "3 to 5 days",
+   "4": "6 to 9 days",
+   "5": "10 to 19 days",
+   "6": "20 to 29 days",
+   "7": "All 30 days"
+  }
+ },
+ "Q34": {
+  "name": "Smoked >10 cigarettes",
+  "label": "Smoked >10 cigarettes",
+  "answers": {
+   "1": "Did not smoke cigarettes",
+   "2": "Less than 1 cigarette",
+   "3": "1 cigarette",
+   "4": "2 to 5 cigarettes",
+   "5": "6 to 10 cigarettes",
+   "6": "11 to 20 cigarettes",
+   "7": "More than 20 cigarettes"
+  }
+ },
+ "Q35": {
+  "name": "Ever vaped",
+  "label": "Electronic vapor product use",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q36": {
+  "name": "Current electronic vapor product use",
+  "label": "Current electronic vapor product use",
+  "answers": {
+   "1": "0 days",
+   "2": "1 or 2 days",
+   "3": "3 to 5 days",
+   "4": "6 to 9 days",
+   "5": "10 to 19 days",
+   "6": "20 to 29 days",
+   "7": "All 30 days"
+  }
+ },
+ "Q37": {
+  "name": "EVP from store",
+  "label": "EVP from store",
+  "answers": {
+   "1": "Did not use EVP",
+   "2": "Friend or family",
+   "3": "Vape shop or tobacco shop",
+   "4": "Store or gas station",
+   "5": "Mall kiosk or stand",
+   "6": "Internet",
+   "7": "Took from a store",
+   "8": "Some other way"
+  }
+ },
+ "Q38": {
+  "name": "Current smokeless tobacco use",
+  "label": "Current smokeless tobacco use",
+  "answers": {
+   "1": "0 days",
+   "2": "1 or 2 days",
+   "3": "3 to 5 days",
+   "4": "6 to 9 days",
+   "5": "10 to 19 days",
+   "6": "20 to 29 days",
+   "7": "All 30 days"
+  }
+ },
+ "Q39": {
+  "name": "Current cigar use",
+  "label": "Current cigar use",
+  "answers": {
+   "1": "0 days",
+   "2": "1 or 2 days",
+   "3": "3 to 5 days",
+   "4": "6 to 9 days",
+   "5": "10 to 19 days",
+   "6": "20 to 29 days",
+   "7": "All 30 days"
+  }
+ },
+ "Q41": {
+  "name": "Age at first drink",
+  "label": "Initiation of alcohol use",
+  "answers": {
+   "1": "Never drank alcohol",
+   "2": "8 years old or younger",
+   "3": "9 or 10 years old",
+   "4": "11 or 12 years old",
+   "5": "13 or 14 years old",
+   "6": "15 or 16 years old",
+   "7": "17 years old or older"
+  }
+ },
+ "Q42": {
+  "name": "Current alcohol use",
+  "label": "Current alcohol use",
+  "answers": {
+   "1": "0 days",
+   "2": "1 or 2 days",
+   "3": "3 to 5 days",
+   "4": "6 to 9 days",
+   "5": "10 to 19 days",
+   "6": "20 to 29 days",
+   "7": "All 30 days"
+  }
+ },
+ "Q44": {
+  "name": "Drinks in a row past 30 days",
+  "label": "Drinks in a row past 30 days",
+  "answers": {
+   "1": "Did not drink in past 30 days",
+   "2": "1 or 2 drinks",
+   "3": "3 drinks",
+   "4": "4 drinks",
+   "5": "5 drinks",
+   "6": "6 or 7 drinks",
+   "7": "8 or 9 drinks",
+   "8": "10 or more drinks"
+  }
+ },
+ "Q45": {
+  "name": "Source of alcohol",
+  "label": "Source of alcohol",
+  "answers": {
+   "1": "Did not drink in past 30 days",
+   "2": "Bought in store",
+   "3": "Bought in restaurant",
+   "4": "Bought at public event",
+   "5": "I gave someone money to buy",
+   "6": "Someone gave it to me",
+   "7": "Took from store/family",
+   "8": "Some other way"
+  }
+ },
+ "Q46": {
+  "name": "Ever used marijuana",
+  "label": "Ever marijuana use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 to 99 times",
+   "7": "100 or more times"
+  }
+ },
+ "Q47": {
+  "name": "Age first tried marijuana",
+  "label": "Initiation of marijuana use",
+  "answers": {
+   "1": "Never tried marijuana",
+   "2": "8 years old or younger",
+   "3": "9 or 10 years old",
+   "4": "11 or 12 years old",
+   "5": "13 or 14 years old",
+   "6": "15 or 16 years old",
+   "7": "17 years old or older"
+  }
+ },
+ "Q48": {
+  "name": "Current marijuana use",
+  "label": "Current marijuana use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q49": {
+  "name": "Ever prescription pain medicine use",
+  "label": "Ever prescription pain medicine use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q50": {
+  "name": "Ever cocaine use",
+  "label": "Ever cocaine use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q51": {
+  "name": "Ever inhalant use",
+  "label": "Ever inhalant use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q52": {
+  "name": "Ever heroin use",
+  "label": "Ever heroin use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q53": {
+  "name": "Ever methamphetamine use",
+  "label": "Ever methamphetamine use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q54": {
+  "name": "Ever ecstasy use",
+  "label": "Ever ecstasy use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q55": {
+  "name": "Illegal injected drug use",
+  "label": "Illegal injected drug use",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 or more times"
+  }
+ },
+ "Q56": {
+  "name": "Ever sexual intercourse",
+  "label": "Ever sexual intercourse",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q57": {
+  "name": "Sex before 13 years",
+  "label": "Sex before 13 years",
+  "answers": {
+   "1": "Never had sex",
+   "2": "11 years old or younger",
+   "3": "12 years old",
+   "4": "13 years old",
+   "5": "14 years old",
+   "6": "15 years old",
+   "7": "16 years old",
+   "8": "17 years old or older"
+  }
+ },
+ "Q58": {
+  "name": "Number of sex partners",
+  "label": "Number of sex partners",
+  "answers": {
+   "1": "Never had sex",
+   "2": "1 person",
+   "3": "2 people",
+   "4": "3 people",
+   "5": "4 people",
+   "6": "5 people",
+   "7": "6 or more people"
+  }
+ },
+ "Q59": {
+  "name": "Current sexual activity",
+  "label": "Current sexual activity",
+  "answers": {
+   "1": "Never had sex",
+   "2": "None during past 3 months",
+   "3": "1 person",
+   "4": "2 people",
+   "5": "3 people",
+   "6": "4 people",
+   "7": "5 people",
+   "8": "6 or more people"
+  }
+ },
+ "Q60": {
+  "name": "Alcohol/drugs and sex",
+  "label": "Alcohol/drugs and sex",
+  "answers": {
+   "1": "Never had sex",
+   "2": "Yes",
+   "3": "No"
+  }
+ },
+ "Q61": {
+  "name": "Condom use",
+  "label": "Condom use",
+  "answers": {
+   "1": "Never had sex",
+   "2": "Yes",
+   "3": "No"
+  }
+ },
+ "Q62": {
+  "name": "Birth control pill use",
+  "label": "Birth control pill use",
+  "answers": {
+   "1": "Never had sex",
+   "2": "No birth control",
+   "3": "Birth control pills",
+   "4": "Condoms",
+   "5": "IUD or implant",
+   "6": "Shot/patch/birth control ring",
+   "7": "Withdrawal or something else",
+   "8": "Not sure"
+  }
+ },
+ "Q63": {
+  "name": "Sex of sexual contacts",
+  "label": "Sex of sexual contacts",
+  "answers": {
+   "1": "Never had sexual contact",
+   "2": "Females",
+   "3": "Males",
+   "4": "Females and males"
+  }
+ },
+ "Q64": {
+  "name": "Sexual identity",
+  "label": "Sexual identity",
+  "answers": {
+   "1": "Heterosexual (straight)",
+   "2": "Gay or lesbian",
+   "3": "Bisexual",
+   "4": "Some other way",
+   "5": "Not sure",
+   "6": "Don't know what this means"
+  }
+ },
+ "Q66": {
+  "name": "Weight perception",
+  "label": "Perception of weight",
+  "answers": {
+   "1": "Very underweight",
+   "2": "Slightly underweight",
+   "3": "About the right weight",
+   "4": "Slightly overweight",
+   "5": "Very overweight"
+  }
+ },
+ "Q67": {
+  "name": "Trying to lose weight",
+  "label": "Weight loss",
+  "answers": {
+   "1": "Lose weight",
+   "2": "Gain weight",
+   "3": "Stay the same weight",
+   "4": "Not trying to do anything"
+  }
+ },
+ "Q69": {
+  "name": "Fruit eating",
+  "label": "Fruit eating",
+  "answers": {
+   "1": "Did not eat fruit",
+   "2": "1 to 3 times",
+   "3": "4 to 6 times",
+   "4": "1 time per day",
+   "5": "2 times per day",
+   "6": "3 times per day",
+   "7": "4 or more times per day"
+  }
+ },
+ "Q70": {
+  "name": "Green salad eating",
+  "label": "Green salad eating",
+  "answers": {
+   "1": "Did not eat green salad",
+   "2": "1 to 3 times",
+   "3": "4 to 6 times",
+   "4": "1 time per day",
+   "5": "2 times per day",
+   "6": "3 times per day",
+   "7": "4 or more times per day"
+  }
+ },
+ "Q71": {
+  "name": "Potato eating",
+  "label": "Potato eating",
+  "answers": {
+   "1": "Did not eat potatoes",
+   "2": "1 to 3 times",
+   "3": "4 to 6 times",
+   "4": "1 time per day",
+   "5": "2 times per day",
+   "6": "3 times per day",
+   "7": "4 or more times per day"
+  }
+ },
+ "Q72": {
+  "name": "Carrot eating",
+  "label": "Carrot eating",
+  "answers": {
+   "1": "Did not eat carrots",
+   "2": "1 to 3 times",
+   "3": "4 to 6 times",
+   "4": "1 time per day",
+   "5": "2 times per day",
+   "6": "3 times per day",
+   "7": "4 or more times per day"
+  }
+ },
+ "Q73": {
+  "name": "Other vegetable eating",
+  "label": "Other vegetable eating",
+  "answers": {
+   "1": "Did not eat other vegetables",
+   "2": "1 to 3 times",
+   "3": "4 to 6 times",
+   "4": "1 time per day",
+   "5": "2 times per day",
+   "6": "3 times per day",
+   "7": "4 or more times per day"
+  }
+ },
+ "Q74": {
+  "name": "No soda drinking",
+  "label": "No soda drinking",
+  "answers": {
+   "1": "Did not drink soda or pop",
+   "2": "1 to 3 times",
+   "3": "4 to 6 times",
+   "4": "1 time per day",
+   "5": "2 times per day",
+   "6": "3 times per day",
+   "7": "4 or more times per day"
+  }
+ },
+ "Q75": {
+  "name": "Breakfast eating",
+  "label": "Breakfast eating",
+  "answers": {
+   "1": "0 days",
+   "2": "1 day",
+   "3": "2 days",
+   "4": "3 days",
+   "5": "4 days",
+   "6": "5 days",
+   "7": "6 days",
+   "8": "7 days"
+  }
+ },
+ "Q76": {
+  "name": "Days active",
+  "label": "Physical activity >= 5 days",
+  "answers": {
+   "1": "0 days",
+   "2": "1 day",
+   "3": "2 days",
+   "4": "3 days",
+   "5": "4 days",
+   "6": "5 days",
+   "7": "6 days",
+   "8": "7 days"
+  }
+ },
+ "Q77": {
+  "name": "PE attendance",
+  "label": "PE attendance",
+  "answers": {
+   "1": "0 days",
+   "2": "1 day",
+   "3": "2 days",
+   "4": "3 days",
+   "5": "4 days",
+   "6": "5 days"
+  }
+ },
+ "Q78": {
+  "name": "Sports teams",
+  "label": "Sports team participation",
+  "answers": {
+   "1": "0 teams",
+   "2": "1 team",
+   "3": "2 teams",
+   "4": "3 or more teams"
+  }
+ },
+ "Q79": {
+  "name": "Concussion",
+  "label": "Concussion",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 times",
+   "4": "3 times",
+   "5": "4 or more times"
+  }
+ },
+ "Q80": {
+  "name": "Social media use",
+  "label": "Social media",
+  "answers": {
+   "1": "I do not use social media",
+   "2": "A few times a month",
+   "3": "About once a week",
+   "4": "A few times a week",
+   "5": "About once a day",
+   "6": "Several times a day",
+   "7": "About once an hour",
+   "8": "More than once an hour"
+  }
+ },
+ "Q81": {
+  "name": "HIV testing",
+  "label": "HIV testing",
+  "answers": {
+   "1": "Yes",
+   "2": "No",
+   "3": "Not sure"
+  }
+ },
+ "Q82": {
+  "name": "STI testing",
+  "label": "STI testing",
+  "answers": {
+   "1": "Yes",
+   "2": "No",
+   "3": "Not sure"
+  }
+ },
+ "Q83": {
+  "name": "Oral health care",
+  "label": "Oral health care",
+  "answers": {
+   "1": "During the past 12 months",
+   "2": "Between 12 and 24 months ago",
+   "3": "More than 24 months ago",
+   "4": "Never",
+   "5": "Not sure"
+  }
+ },
+ "Q84": {
+  "name": "Poor mental health (past 30 days)",
+  "label": "Current mental health",
+  "answers": {
+   "1": "Never",
+   "2": "Rarely",
+   "3": "Sometimes",
+   "4": "Most of the time",
+   "5": "Always"
+  }
+ },
+ "Q85": {
+  "name": "Hours of sleep",
+  "label": "Sleep",
+  "answers": {
+   "1": "4 or less hours",
+   "2": "5 hours",
+   "3": "6 hours",
+   "4": "7 hours",
+   "5": "8 hours",
+   "6": "9 hours",
+   "7": "10 or more hours"
+  }
+ },
+ "Q86": {
+  "name": "Unstable housing",
+  "label": "Unstable housing",
+  "answers": {
+   "1": "Home of parent or gaurdian",
+   "2": "Home of other people",
+   "3": "Shelter or emergency housing",
+   "4": "Motel or hotel",
+   "5": "Public place",
+   "6": "No usual place",
+   "7": "Somewhere else"
+  }
+ },
+ "Q89": {
+  "name": "Emotional abuse by a parent",
+  "label": "Ever Parental emotional abuse ACEs",
+  "answers": {
+   "1": "Never",
+   "2": "Rarely",
+   "3": "Sometimes",
+   "4": "Most of the time",
+   "5": "Always"
+  }
+ },
+ "Q90": {
+  "name": "Physical abuse by a parent",
+  "label": "Ever Parental physical abuse ACEs",
+  "answers": {
+   "1": "Never",
+   "2": "Rarely",
+   "3": "Sometimes",
+   "4": "Most of the time",
+   "5": "Always"
+  }
+ },
+ "Q92": {
+  "name": "Misused pain medicine",
+  "label": "Current Rx Pain med w/out Rx",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q93": {
+  "name": "Ever used hallucinogenic drugs",
+  "label": "Ever used hallucinogenic drugs",
+  "answers": {
+   "1": "0 times",
+   "2": "1 or 2 times",
+   "3": "3 to 9 times",
+   "4": "10 to 19 times",
+   "5": "20 to 39 times",
+   "6": "40 or more times"
+  }
+ },
+ "Q95": {
+  "name": "Sports drinks",
+  "label": "Sports drinks",
+  "answers": {
+   "1": "I did not drink",
+   "2": "1 to 3 times",
+   "3": "4 to 6 times",
+   "4": "1 time per day",
+   "5": "2 times per day",
+   "6": "3 times per day",
+   "7": "4 or more times per day"
+  }
+ },
+ "Q96": {
+  "name": "Plain water",
+  "label": "Plain water",
+  "answers": {
+   "1": "Did not drink water",
+   "2": "1 to 3 times",
+   "3": "4 to 6 times",
+   "4": "1 time per day",
+   "5": "2 times per day",
+   "6": "3 times per day",
+   "7": "4 or more times per day"
+  }
+ },
+ "Q97": {
+  "name": "Muscle strengthening",
+  "label": "Muscle strengthening",
+  "answers": {
+   "1": "0 days",
+   "2": "1 day",
+   "3": "2 days",
+   "4": "3 days",
+   "5": "4 days",
+   "6": "5 days",
+   "7": "6 days",
+   "8": "7 days"
+  }
+ },
+ "Q98": {
+  "name": "Sunburn",
+  "label": "Sunburn",
+  "answers": {
+   "1": "0 times",
+   "2": "1 time",
+   "3": "2 times",
+   "4": "3 times",
+   "5": "4 times",
+   "6": "5 or more times"
+  }
+ },
+ "Q99": {
+  "name": "Basic needs met at home",
+  "label": "How often Household adult met basic needs ACEs",
+  "answers": {
+   "1": "Never",
+   "2": "Rarely",
+   "3": "Sometimes",
+   "4": "Most of the time",
+   "5": "Always"
+  }
+ },
+ "Q103": {
+  "name": "Close to people at school",
+  "label": "Feel close to people at their school",
+  "answers": {
+   "1": "Strongly agree",
+   "2": "Agree",
+   "3": "Not sure",
+   "4": "Disagree",
+   "5": "Strongly disagree"
+  }
+ },
+ "Q105": {
+  "name": "Unfairly disciplined at school",
+  "label": "Unfairly disciplined at school",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q104": {
+  "name": "Parental monitoring",
+  "label": "Parental monitoring",
+  "answers": {
+   "1": "Never",
+   "2": "Rarely",
+   "3": "Sometimes",
+   "4": "Most of the time",
+   "5": "Always"
+  }
+ },
+ "Q106": {
+  "name": "Difficulty concentrating",
+  "label": "Difficulty concentrating",
+  "answers": {
+   "1": "Yes",
+   "2": "No"
+  }
+ },
+ "Q107": {
+  "name": "How well speak English",
+  "label": "How well speak English",
+  "answers": {
+   "1": "Very well",
+   "2": "Well",
+   "3": "Not well",
+   "4": "Not at all"
+  }
+ }
+}
